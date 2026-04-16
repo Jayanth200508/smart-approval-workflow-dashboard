@@ -1,0 +1,66 @@
+const ROLE_PERMISSIONS = {
+  admin: [
+    'users.read',
+    'users.create',
+    'users.update',
+    'users.delete',
+    'departments.read',
+    'departments.create',
+    'departments.update',
+    'departments.delete',
+    'workflows.read',
+    'workflows.create',
+    'workflows.update',
+    'workflows.delete',
+    'requests.read.all',
+    'requests.create',
+    'requests.update.any',
+    'requests.approve',
+    'requests.reject',
+    'requests.escalate',
+    'analytics.read',
+    'audit.read',
+    'security.manage',
+    'notifications.manage',
+  ],
+  manager: [
+    'requests.read.team',
+    'requests.read.all',
+    'requests.approve',
+    'requests.reject',
+    'requests.comment',
+    'requests.escalate',
+    'requests.bulkApprove',
+    'analytics.read.team',
+    'notifications.read',
+  ],
+  approver: [
+    'requests.read.assigned',
+    'requests.approve',
+    'requests.reject',
+    'requests.comment',
+    'notifications.read',
+  ],
+  employee: [
+    'requests.create',
+    'requests.read.own',
+    'requests.update.own',
+    'requests.cancel.own',
+    'requests.comment.own',
+    'notifications.read',
+  ],
+  auditor: [
+    'requests.read.all',
+    'request_events.read',
+    'analytics.read',
+    'audit.read',
+    'notifications.read',
+  ],
+};
+
+const getPermissionsForRole = (role) => ROLE_PERMISSIONS[String(role || '').toLowerCase()] || [];
+
+module.exports = {
+  ROLE_PERMISSIONS,
+  getPermissionsForRole,
+};

@@ -1,0 +1,2 @@
+[2026-03-07T03:50:51.779Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-03-07T03:50:51.790Z] [INFO] FlowPilot API started on http://localhost:5051

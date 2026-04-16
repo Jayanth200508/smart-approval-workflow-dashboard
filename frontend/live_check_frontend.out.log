@@ -1,0 +1,49 @@
+
+> smart-approval-frontend@1.0.0 dev
+> vite --host 0.0.0.0 --port 5173 --strictPort
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2943[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.40.27.241:[1m5173[22m/[39m
+[2m3:47:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m3:47:56 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:47:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/pages/LoginPage.jsx, /src/pages/MyRequestsPage.jsx, /src/pages/AnnouncementsPage.jsx, /src/pages/AdminNotificationsPage.jsx, /src/context/RequestContext.jsx, /src/components/routing/ProtectedRoute.jsx, /src/pages/RequestDetailPage.jsx, /src/pages/HelpSupportPage.jsx, /src/pages/ManagerDashboardPage.jsx, /src/pages/AdminAnalyticsPage.jsx, /src/pages/DepartmentRequestsPage.jsx, /src/pages/NotificationsPage.jsx, /src/pages/DepartmentManagementPage.jsx, /src/pages/RegisterPage.jsx, /src/pages/UserManagementPage.jsx, /src/pages/RequestTypesPage.jsx, /src/pages/AdminProfilePage.jsx, /src/context/NotificationContext.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/ApprovalsPage.jsx, /src/components/layout/AppLayout.jsx, /src/pages/ProfilePage.jsx, /src/pages/SubmitRequestPage.jsx, /src/components/layout/Breadcrumbs.jsx, /src/components/layout/TopHeader.jsx[22m
+[2m3:47:57 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/RequestContext.jsx[22m Could not Fast Refresh ("useRequests" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:47:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/pages/MyRequestsPage.jsx, /src/pages/AdminNotificationsPage.jsx, /src/pages/RequestDetailPage.jsx, /src/pages/ManagerDashboardPage.jsx, /src/pages/AdminAnalyticsPage.jsx, /src/pages/DashboardPage.jsx, /src/pages/DepartmentRequestsPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/ApprovalsPage.jsx, /src/components/layout/AppLayout.jsx, /src/pages/SubmitRequestPage.jsx[22m
+[2m3:47:57 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/NotificationContext.jsx[22m Could not Fast Refresh ("useNotifications" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:47:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/pages/HelpSupportPage.jsx, /src/pages/NotificationsPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/ApprovalsPage.jsx, /src/components/layout/AppLayout.jsx, /src/pages/SubmitRequestPage.jsx, /src/components/layout/TopHeader.jsx[22m
+[2m4:24:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m4:24:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m4:26:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminAnalyticsPage.jsx[22m
+[2m9:44:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m9:44:29 am[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mframer-motion[32m[39m
+[2m9:44:29 am[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m10:08:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/RequestContext.jsx[22m
+[2m10:08:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/RequestContext.jsx[22m
+[2m10:08:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/RequestContext.jsx[22m
+[2m10:10:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m10:10:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m10:10:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SubmitRequestPage.jsx[22m
+[2m10:11:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:11:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx[22m
+[2m10:11:25 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/TopHeader.jsx[22m
+[2m10:11:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Breadcrumbs.jsx[22m
+[2m10:12:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/app.css[22m
+[2m11:00:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AppLayout.jsx[22m
+[2m11:00:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx[22m
+[2m11:00:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/TopHeader.jsx[22m
+[2m11:01:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminDashboardPage.jsx[22m
+[2m11:02:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ApprovalsPage.jsx[22m
+[2m11:02:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ApprovalsPage.jsx[22m
+[2m11:02:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ApprovalsPage.jsx[22m
+[2m11:02:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/requests/RequestFilters.jsx[22m
+[2m11:03:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ApprovalsPage.jsx[22m
+[2m11:03:38 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx[22m
+[2m11:04:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.jsx[22m
+[2m11:04:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AIAnalyticsDashboardPage.jsx[22m
+[2m11:05:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AIAnalyticsDashboardPage.jsx[22m
+[2m11:06:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m11:07:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/requests/RequestTable.jsx[22m
+[2m11:08:25 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/app.css[22m

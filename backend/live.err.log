@@ -1,0 +1,2 @@
+[2026-03-28T16:10:52.602Z] [WARN] SMTP not configured. Email skipped. {"recipient":"jayanth.se23@bitsathy.ac.in","subject":"New Request Submitted for Approval","eventType":"request_submission"}
+[2026-03-28T16:19:42.830Z] [ERROR] Request failed {"method":"POST","url":"/api/auth/login","status":401,"message":"Invalid email or password"}

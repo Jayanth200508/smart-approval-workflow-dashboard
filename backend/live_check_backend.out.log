@@ -1,0 +1,351 @@
+
+> flowpilot-server@1.0.0 dev
+> nodemon src/server.js
+
+[33m[nodemon] 3.1.11[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:09:24.739Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:09:26.048Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:09:29.814Z] [INFO] Workflow bootstrap completed (system users synced)
+[0mGET /api/health [32m200[0m 8.277 ms - 161[0m
+[0mPOST /api/auth/login [32m200[0m 139.552 ms - 549[0m
+[0mGET /api/requests [32m200[0m 135.484 ms - 26[0m
+[0mGET /api/notifications [33m404[0m 101.402 ms - 69[0m
+[0mGET /api/health [32m200[0m 0.606 ms - 162[0m
+[0mPOST /api/auth/login [33m401[0m 267.711 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 226.226 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 213.133 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 226.314 ms - 573[0m
+[0mGET /api/auth/login-activity [32m200[0m 60.038 ms - 273[0m
+[0mGET /api/requests [32m200[0m 86.227 ms - 26[0m
+[0mGET /api/requests [36m304[0m 476.669 ms - -[0m
+[0mPOST /api/auth/login [33m401[0m 265.323 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 260.364 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 147.352 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 123.089 ms - 540[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:17:29.892Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:17:30.836Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:17:32.427Z] [INFO] Workflow bootstrap completed (system users synced)
+[0mPOST /api/auth/login [32m200[0m 98.940 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 62.788 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 69.435 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 81.205 ms - 540[0m
+[0mPOST /api/auth/login [33m401[0m 8.832 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 64.220 ms - 540[0m
+[0mGET /api/auth/login-activity [32m200[0m 83.779 ms - 1089[0m
+[0mGET /api/requests [36m304[0m 77.988 ms - -[0m
+[0mGET /api/requests [36m304[0m 52.158 ms - -[0m
+[0mGET /api/requests [36m304[0m 77.730 ms - -[0m
+[0mGET /api/requests [36m304[0m 73.987 ms - -[0m
+[0mGET /api/requests [36m304[0m 59.424 ms - -[0m
+[0mGET /api/requests [36m304[0m 54.045 ms - -[0m
+[0mGET /api/requests [36m304[0m 51.472 ms - -[0m
+[0mGET /api/requests [36m304[0m 53.161 ms - -[0m
+[0mGET /api/requests [36m304[0m 55.423 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:36:07.272Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:36:10.066Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:36:12.329Z] [INFO] Workflow bootstrap completed (system users synced)
+[0mGET /api/requests [36m304[0m 1649.535 ms - -[0m
+[0mGET /api/requests [36m304[0m 94.819 ms - -[0m
+[0mGET /api/requests [36m304[0m 439.556 ms - -[0m
+[0mGET /api/requests [36m304[0m 92.540 ms - -[0m
+[0mGET /api/requests [36m304[0m 84.490 ms - -[0m
+[0mGET /api/requests [36m304[0m 82.741 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:37:23.418Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:37:24.841Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:37:28.163Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:37:43.453Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:37:44.263Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:37:46.972Z] [INFO] Workflow bootstrap completed (system users synced)
+[0mGET /api/requests [36m304[0m 422.758 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:38:11.559Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:38:12.919Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:38:16.596Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:38:22.405Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:38:24.901Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:38:35.090Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:38:35.860Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:38:38.165Z] [INFO] Workflow bootstrap completed (system users synced)
+[0mGET /api/requests [36m304[0m 106.473 ms - -[0m
+[0mGET /api/requests [36m304[0m 75.567 ms - -[0m
+[0mGET /api/requests [36m304[0m 80.910 ms - -[0m
+[0mGET /api/requests [36m304[0m 78.588 ms - -[0m
+[0mGET /api/requests [36m304[0m 65.392 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:46:46.159Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:46:48.962Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:46:50.907Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:47:26.036Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:47:27.042Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:47:30.106Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:48:09.516Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:48:10.720Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:48:14.873Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:49:06.927Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:49:07.952Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:49:10.746Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:50:11.688Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:50:12.385Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:50:14.317Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:50:45.212Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:50:46.128Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:50:48.056Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:51:02.647Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:51:03.472Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:51:05.524Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:51:15.158Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:51:15.769Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:51:17.680Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-15T10:51:29.799Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-15T10:51:29.803Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-15T10:51:30.432Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-15T10:51:32.499Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-15T10:51:41.061Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[0mGET /api/health [32m200[0m 34.353 ms - 164[0m
+[0mGET /api/health [32m200[0m 1.520 ms - 164[0m
+[0mPOST /api/auth/login [33m400[0m 112.635 ms - 110[0m
+[0mGET /api/health [32m200[0m 1.520 ms - 164[0m
+[0mGET /api/requests [33m401[0m 1.769 ms - 61[0m
+[0mGET /api/requests [36m304[0m 584.592 ms - -[0m
+[0mGET /api/auth/login-activity [32m200[0m 676.902 ms - 26[0m
+[0mGET /api/requests [36m304[0m 140.766 ms - -[0m
+[0mGET /api/requests [36m304[0m 52.684 ms - -[0m
+[0mGET /api/requests [36m304[0m 72.458 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 86.277 ms - 535[0m
+[0mGET /api/auth/login-activity [32m200[0m 60.690 ms - 273[0m
+[0mGET /api/requests [36m304[0m 83.311 ms - -[0m
+[0mGET /api/requests [36m304[0m 52.768 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:23:53.795Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:23:53.811Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:23:55.251Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:23:58.720Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:24:04.113Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:24:04.117Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:24:05.135Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:24:09.150Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:24:13.030Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:24:13.034Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:24:14.871Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:24:25.483Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:24:25.489Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:24:26.374Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:24:28.780Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:24:28.785Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:24:30.917Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:24:34.245Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:24:47.142Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:33:15.043Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:33:15.048Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:33:16.309Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:33:19.641Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:33:42.299Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:34:01.711Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:34:01.715Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:34:02.477Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:34:05.919Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:34:18.745Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:34:52.776Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:34:52.780Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:34:53.857Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:34:55.891Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:35:07.876Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:35:49.312Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:35:49.317Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:35:50.219Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:35:52.611Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:36:05.836Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:36:39.745Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:36:39.749Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:36:40.697Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:36:43.056Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:36:51.571Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:36:51.576Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:36:52.401Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:36:54.610Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:36:59.804Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:36:59.809Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:00.920Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:37:03.357Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:37:09.452Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:37:09.457Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:10.348Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:37:13.509Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:37:25.805Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:37:25.810Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:27.172Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:37:30.665Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:37:30.669Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:32.399Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:37:35.210Z] [INFO] Workflow bootstrap completed (system users synced)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:37:41.021Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:37:41.025Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:41.776Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-04-16T04:37:46.173Z] [INFO] Workflow monitor scheduler started {"intervalMs":60000,"inactivityThresholdHours":24,"escalationThresholdHours":48}
+[2026-04-16T04:37:46.177Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-04-16T04:37:48.996Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[2026-04-16T04:37:54.315Z] [INFO] Workflow bootstrap completed (system users synced)
+[2026-04-16T04:38:06.635Z] [INFO] MongoDB indexes ensured for workflow analytics collections
+[2026-04-16T04:38:11.494Z] [INFO] AI workflow seed data initialized {"count":6}
+[2026-04-16T04:38:47.849Z] [INFO] AI escalation sweep completed with actions {"checked":2,"escalated":2,"skipped":0}
+[0mGET /api/auth/login-activity [32m200[0m 89.276 ms - 26[0m
+[0mGET /api/requests [36m304[0m 79.371 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 107.436 ms - 540[0m
+[0mGET /api/auth/login-activity [32m200[0m 55.360 ms - 273[0m
+[0mGET /api/requests [36m304[0m 52.310 ms - -[0m
+[0mGET /api/requests [36m304[0m 49.072 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 160.774 ms - 535[0m
+[0mGET /api/auth/login-activity [32m200[0m 76.100 ms - 273[0m
+[0mGET /api/requests [36m304[0m 57.445 ms - -[0m
+[0mGET /api/requests [36m304[0m 108.835 ms - -[0m
+[0mGET /api/requests [36m304[0m 70.160 ms - -[0m
+[0mPOST /api/requests/create [32m201[0m 1462.438 ms - 1365[0m
+[0mGET /api/requests [36m304[0m 316.961 ms - -[0m
+[0mGET /api/requests [36m304[0m 126.186 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 71.018 ms - 540[0m
+[0mGET /api/requests [32m200[0m 260.950 ms - 896[0m
+[0mGET /api/auth/login-activity [32m200[0m 306.632 ms - 521[0m
+[0mGET /api/requests [36m304[0m 90.689 ms - -[0m
+[0mGET /api/requests [36m304[0m 58.299 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 479.173 ms - 4521[0m
+[0mGET /api/analytics/dashboard [32m200[0m 431.278 ms - 4521[0m
+[0mGET /api/requests [36m304[0m 62.852 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 369.900 ms - 4521[0m
+[0mGET /api/analytics/dashboard [32m200[0m 575.028 ms - 4521[0m
+[0mGET /api/requests [36m304[0m 79.767 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 590.508 ms - 4521[0m
+[0mGET /api/analytics/dashboard [32m200[0m 394.013 ms - 4521[0m
+[0mGET /api/requests [36m304[0m 59.059 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 508.131 ms - 4522[0m
+[0mGET /api/requests [36m304[0m 63.918 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 550.020 ms - 4522[0m
+[0mPOST /api/escalate/69e067b0bee1b747c41cfb67 [32m200[0m 1669.130 ms - 397[0m
+[0mGET /api/analytics/dashboard [32m200[0m 656.967 ms - 4712[0m
+[0mPOST /api/escalate/69e067b0bee1b747c41cfb67 [32m200[0m 1776.254 ms - 393[0m
+[0mGET /api/analytics/dashboard [32m200[0m 336.037 ms - 4898[0m
+[0mGET /api/requests [36m304[0m 63.921 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 362.011 ms - 4898[0m
+[0mGET /api/requests [36m304[0m 65.559 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 537.071 ms - 4898[0m
+[0mGET /api/requests [36m304[0m 119.851 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 355.282 ms - 4906[0m
+[0mGET /api/requests [36m304[0m 66.911 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 378.717 ms - 4907[0m
+[0mGET /api/requests [36m304[0m 59.278 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 302.338 ms - 4907[0m
+[0mGET /api/requests [36m304[0m 90.294 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 307.649 ms - 4907[0m
+[0mGET /api/requests [36m304[0m 59.232 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 313.917 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 73.702 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 443.232 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 60.173 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 322.366 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 73.486 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 438.606 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 158.048 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 604.047 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 99.021 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 509.779 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 67.011 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 288.443 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 242.578 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 422.697 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 62.539 ms - -[0m
+[0mGET /api/analytics/dashboard [32m200[0m 575.707 ms - 4910[0m
+[0mGET /api/requests [36m304[0m 215.182 ms - -[0m
+[0mGET /api/requests [36m304[0m 61.174 ms - -[0m
+[0mGET /api/requests [36m304[0m 209.050 ms - -[0m
+[0mGET /api/requests [36m304[0m 85.625 ms - -[0m
+[0mGET /api/requests [36m304[0m 205.414 ms - -[0m
+[0mGET /api/requests [36m304[0m 389.797 ms - -[0m
+[0mGET /api/requests [36m304[0m 789.041 ms - -[0m
+[0mGET /api/requests [36m304[0m 473.856 ms - -[0m
+[0mGET /api/requests [36m304[0m 66.884 ms - -[0m
+[0mGET /api/requests [36m304[0m 71.648 ms - -[0m
+[0mGET /api/requests [36m304[0m 219.103 ms - -[0m
+[0mGET /api/requests [36m304[0m 58.438 ms - -[0m
+[0mGET /api/requests [36m304[0m 77.738 ms - -[0m
+[0mGET /api/requests [36m304[0m 97.981 ms - -[0m
+[0mGET /api/requests [36m304[0m 87.585 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 473.846 ms - 573[0m
+[0mGET /api/requests [32m200[0m 163.707 ms - 26[0m
+[0mGET /api/auth/login-activity [32m200[0m 206.072 ms - 273[0m
+[0mGET /api/requests [36m304[0m 51.448 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 101.595 ms - 540[0m
+[0mGET /api/auth/login-activity [32m200[0m 63.368 ms - 769[0m
+[0mGET /api/requests [32m200[0m 63.172 ms - 896[0m
+[0mGET /api/requests [36m304[0m 152.642 ms - -[0m
+[0mGET /api/requests [36m304[0m 65.169 ms - -[0m
+[0mGET /api/requests [36m304[0m 251.862 ms - -[0m
+[0mGET /api/requests [36m304[0m 245.944 ms - -[0m

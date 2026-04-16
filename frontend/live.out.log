@@ -1,0 +1,16 @@
+
+> smart-approval-frontend@1.0.0 dev
+> vite --host
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m862[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.10:[1m5173[22m/[39m
+[2m9:57:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m9:58:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m9:58:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/app.css[22m
+[2m9:59:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/app.css[22m
+[2m10:05:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m10:05:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m10:05:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/app.css[22m

@@ -1,0 +1,89 @@
+
+> flowpilot-server@1.0.0 dev
+> nodemon src/server.js
+
+[33m[nodemon] 3.1.11[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-03-16T04:20:56.375Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-03-16T04:20:58.136Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[0mPOST /api/auth/login [32m200[0m 178.631 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 56.836 ms - 540[0m
+[0mGET /api/users [32m200[0m 279.306 ms - 22028[0m
+[0mPOST /api/auth/login [32m200[0m 247.586 ms - 509[0m
+[0mPOST /api/auth/login [33m401[0m 295.405 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 497.182 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 267.009 ms - 540[0m
+[0mPOST /api/auth/login [33m401[0m 475.488 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 349.127 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 325.270 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 259.422 ms - 531[0m
+[0mGET /api/health [32m200[0m 1.979 ms - 163[0m
+[0mPOST /api/auth/login [32m200[0m 329.024 ms - 540[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-03-16T05:25:50.607Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-03-16T05:25:52.814Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[0mPOST /api/auth/login [32m200[0m 145.587 ms - 540[0m
+[0mPOST /api/auth/login [32m200[0m 121.699 ms - 540[0m
+[0mPOST /api/auth/login [33m401[0m 503.605 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 759.977 ms - 531[0m
+[0mPOST /api/auth/login [32m200[0m 1679.797 ms - 531[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-03-16T05:31:55.107Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-03-16T05:31:57.500Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[0mPOST /api/auth/login [32m200[0m 725.590 ms - 544[0m
+[0mPOST /api/auth/login [32m200[0m 222.309 ms - 544[0m
+[0mGET /api/requests [32m200[0m 147.496 ms - 26[0m
+[0mGET /api/auth/login-activity [32m200[0m 201.291 ms - 477[0m
+[0mGET /api/requests [36m304[0m 1198.025 ms - -[0m
+[0mGET /api/requests [36m304[0m 150.286 ms - -[0m
+[0mGET /api/auth/login-activity [36m304[0m 369.446 ms - -[0m
+[0mGET /api/requests [36m304[0m 404.268 ms - -[0m
+[0mGET /api/auth/login-activity [36m304[0m 337.948 ms - -[0m
+[0mGET /api/requests [36m304[0m 365.478 ms - -[0m
+[0mGET /api/requests [36m304[0m 733.696 ms - -[0m
+[0mPOST /api/auth/login [33m401[0m 568.207 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 513.594 ms - 55[0m
+[0mGET /api/requests [36m304[0m 486.709 ms - -[0m
+[0mGET /api/requests [36m304[0m 408.085 ms - -[0m
+[0mPOST /api/auth/login [33m401[0m 410.233 ms - 55[0m
+[0mPOST /api/auth/login [33m401[0m 403.018 ms - 55[0m
+[0mGET /api/requests [33m401[0m 0.456 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.550 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.681 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.364 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.438 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.454 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.791 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.523 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.617 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.586 ms - 61[0m
+[0mGET /api/requests [33m401[0m 0.522 ms - 61[0m
+[0mPOST /api/auth/login [32m200[0m 261.329 ms - 549[0m
+[0mGET /api/health [32m200[0m 1.001 ms - 162[0m
+[0mPOST /api/auth/login [32m200[0m 121.173 ms - 544[0m
+[0mPOST /api/auth/login [32m200[0m 458.593 ms - 549[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-03-16T05:45:05.890Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[2026-03-16T05:45:10.272Z] [INFO] Infosys Approval System API started on http://localhost:5051
+[2026-03-16T05:45:12.927Z] [INFO] MongoDB connected {"host":"ac-gdcfeak-shard-00-00.zlfe4lx.mongodb.net","dbName":"flowpilot"}
+[0mPOST /api/auth/login [32m200[0m 239.472 ms - 549[0m
+[0mPOST /api/auth/login [32m200[0m 201.540 ms - 549[0m
+[0mPOST /api/auth/login [32m200[0m 110.777 ms - 544[0m
+[0mGET /api/requests [33m401[0m 3.377 ms - 61[0m
+[0mGET /api/requests [33m401[0m 1.007 ms - 61[0m
+[0mPOST /api/auth/login [33m401[0m 484.435 ms - 55[0m
+[0mPOST /api/auth/login [32m200[0m 9912.879 ms - 573[0m
+[0mGET /api/auth/login-activity [32m200[0m 273.360 ms - 273[0m
+[0mGET /api/requests [36m304[0m 1901.820 ms - -[0m
+[0mGET /api/requests [36m304[0m 229.803 ms - -[0m
+[0mGET /api/requests [36m304[0m 636.873 ms - -[0m
+[0mGET /api/requests [36m304[0m 8535.294 ms - -[0m
+[0mGET /api/requests [36m304[0m 109.817 ms - -[0m
